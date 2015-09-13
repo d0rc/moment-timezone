@@ -4,7 +4,7 @@
   "main": "builds/moment-timezone-with-data-2010-2020.js",
   "version": "0.4.0",
   "dependencies" : {
-    "moment" : ">= 2.6.0"
+    "moment" : "d0rc/moment#55a13e1208b99b33ec2f043ca74d97197e255ef1"
   },
   "ignore": [
     "**/.*",
